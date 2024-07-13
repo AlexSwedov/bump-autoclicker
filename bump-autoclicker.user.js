@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         BUMP Autoclicker
-// @namespace    Violentmonkey Scripts
+// @namespace    https://github.com/AlexSwedov
 // @match        *://*.bump.sh/*
-// @author       mudachyo (modified)
-// @version      1.2
-// @description  13.07.2024, Autoclicker for BUMP
+// @author       AlexSwedov
+// @version      1.0
+// @description  Autoclicker for BUMP
 // @grant        none
-// @icon         https://www.softportal.com/en/scr/1089/icons/icon_src.png
-// @downloadURL  https://github.com/yourusername/BUMP/raw/main/bump-autoclicker.user.js
-// @updateURL    https://github.com/yourusername/BUMP/raw/main/bump-autoclicker.user.js
-// @homepage     https://github.com/yourusername/BUMP
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=bump.sh
+// @downloadURL  https://github.com/AlexSwedov/bump-autoclicker/raw/main/bump-autoclicker.user.js
+// @updateURL    https://github.com/AlexSwedov/bump-autoclicker/raw/main/bump-autoclicker.user.js
+// @homepage     https://github.com/AlexSwedov/bump-autoclicker
 // ==/UserScript==
 
 const minClickDelay = 30;
